@@ -42,8 +42,8 @@ export const pkg = JSON.parse(
 ) as { version: string };
 
 const project: BareProject = {
-	name: 'bare-server-node',
-	description: 'TOMPHTTP NodeJS Bare Server',
+	name: 'bare-server-atlantic',
+	description: 'ATLANTICPROXY : TOMPHTTP NodeJS Bare Server',
 	repository: 'https://github.com/tomphttp/bare-server-node',
 	version: pkg.version,
 };
